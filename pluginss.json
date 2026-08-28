@@ -2,6 +2,6 @@
   "name": "My Plugins",
   "author": "Me",
   "plugins": [
-    "https://raw.githubusercontent.com/frienemyman/cloudstrem-new/main/ExampleProvider.cs3"
+    "https://raw.githubusercontent.com/frienemyman/cloudstrem-new/refs/heads/main/ExampleProvider.cs3"
   ]
 }
